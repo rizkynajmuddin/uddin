@@ -4,7 +4,7 @@
  "name" : "Moch Rizky Najmuddin", 
  "age" : 20, 
  "address" : "Kesambi, Kota Cirebon, Jawa Barat",
- "hobbies" : [cycling, listening to podcasts, watching], 
+ "hobbies" : ["cycling, listening to podcasts, watching"], 
  "is_married" : false, 
  "senior_high_school" : "SMAN 6 Kota Cirebon (2015-2018)", 
  "skills" : "PHP (Beginner)", 
